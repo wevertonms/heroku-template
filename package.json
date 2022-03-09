@@ -2,6 +2,9 @@
   "name": "directus-project",
   "version": "1.0.0",
   "description": "Directus",
+  "engines": {
+    "node": "16.14"
+  },
   "scripts": {
     "start": "directus start"
   },
